@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+table#mime_types_table tr {
+	height: 20px;
+}
+
+table#mime_types_table td {
+	vertical-align: middle;
+	padding: 5px;
+}
+
+table#mime_types_table td.table-row-odd {
+	background-color: #eeeeee;
+}
+
+table#mime_types_table td.table-row-even {
+	background-color: #ffffff;
+}
+
+div.mime_types_admin_row label {
+	width: 20%;
+	float: left;
+	padding: 5px;
+}
+
+div.mime_types_admin_row input.grapevine_groups-admin-input {
+	width: 70%;
+}
