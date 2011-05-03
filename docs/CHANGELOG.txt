@@ -1,0 +1,5 @@
+Version 1.0.0, released 27th October, 2010
+
+* Inital release
+
+--------------------------------------
